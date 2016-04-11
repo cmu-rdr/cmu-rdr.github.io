@@ -1,0 +1,56 @@
+
+-----------------------------------------
+
+Beginning Tasks
+---------------
++Confirm date with Dario
+-Pick randomness provider
+-Confirm date with him
+-Confirm with Dec/5
+
+-----------------------------------------
+
+Advertise
+---------
+-Poster & spam for pre-registration
+-Spam week of
+
+
+Registration
+------------
++Pick early reg date
++Pick cost
++Update form
+
+
+Dice
+----
+-Pick a roller
+-Confirm with roller
+
+
+Track
+-----
++Email Dario
++Finalize Date (get on the official list)
+
+
+T-shirts
+--------
++Confirm with Tom
+-Give Tom a date
+-Talk to company
+-Pick an order size
+-Handoff design
+
+
+Party
+-----
+-Check with Dec/5 and FreeCSD
+-Confirm with Dec/5 or FreeCSD
+
+
+Web
+---
++Update FAQ
++Put up registration form
