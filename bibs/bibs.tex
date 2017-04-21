@@ -1,0 +1,17 @@
+\documentclass[letterpaper,landscape]{article}
+
+\usepackage[margin=1in]{geometry}
+\pagestyle{empty}
+\usepackage{tikz}
+
+\begin{document}
+\foreach \x in {2,...,70} {
+  \clearpage
+  \vspace*{\fill}
+  \begin{center}
+    \scalebox{20}{\Huge \x}
+  \end{center}
+  \vfill % equivalent to \vspace{\fill}
+  \clearpage
+}
+\end{document}
