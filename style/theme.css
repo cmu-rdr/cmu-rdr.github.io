@@ -1,0 +1,27 @@
+tr.main-page-results-header {
+	height: 33pt;
+	border-bottom-style: solid;
+	border-bottom-width: 0.1pt;
+	border-top-style: solid;
+	border-top-width: 0.1pt;
+	text-align: center;
+	font-size: 0.8rem;
+	font-family: "Arial";
+}
+
+tr.main-page-results {
+	height: 14pt;
+	margin-left: auto;
+  	margin-right: auto;
+	border-left-style: none;
+	border-left-width: none;
+	border-right-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-bottom-width: none;
+	border-top-style: none;
+	border-top-width: 0;
+	text-align: center;
+	font-size: 0.9rem;
+	font-family: "Arial";
+}
